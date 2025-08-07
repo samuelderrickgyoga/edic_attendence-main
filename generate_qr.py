@@ -9,7 +9,8 @@ BASE_URL = "https://mwanaisha222-edic-attendence-main-ndibxo.streamlit.app/"
 blocks = [
     {"key": "block_civil", "discipline": "civil"},
     {"key": "block_electrical", "discipline": "electrical"},
-    {"key": "block_mechanical", "discipline": "mechanical"}
+    {"key": "block_mechanical", "discipline": "mechanical"},
+    {"key": "block_automotive", "discipline": "automotive"}
 ]
 
 def create_qr_with_text(url, text, filename):
