@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 
 # Base URL of your Streamlit app
-BASE_URL = "https://mwanaisha222-edic-attendence-main-ndibxo.streamlit.app/"
+BASE_URL = "https://samuelderrickgyoga-edic-attendence-main-main-moiqzz.streamlit.app/"
 
 # Mapping of blocks to query parameter values
 blocks = [
